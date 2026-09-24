@@ -1,6 +1,0 @@
-O QUE TROCAR ANTES DE PUBLICAR
-1. Nome e email já preenchidos (Zeferino Sitoe).
-2. Página sobre.html: escreve o teu texto real.
-3. Artigo de exemplo: reescreve com as tuas palavras.
-4. Depois da aprovação AdSense: descomenta o script no <head> e cola os blocos de anúncio nos espaços marcados.
-5. ads.txt: troca pub-XXXXXXXXXXXXXXXX pelo teu ID de editor e coloca o ficheiro na raiz do site.
